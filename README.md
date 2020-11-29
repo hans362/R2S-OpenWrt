@@ -1,13 +1,12 @@
 ## R2S 基于原生OpenWRT 的固件(AS IS, NO WARRANTY!!!)
-![R2S-OpenWrt-Without-Docker](https://github.com/QiuSimons/R2S-OpenWrt/workflows/R2S-OpenWrt-Without-Docker/badge.svg)
+![R2S-OpenWrt-Without-Docker](https://github.com/hans362/R2S-OpenWrt/workflows/R2S-OpenWrt-Without-Docker/badge.svg)
+![R2S-OpenWrt-With-Docker](https://github.com/hans362/R2S-OpenWrt/workflows/R2S-OpenWrt-With-Docker/badge.svg)
 
 ### 下载地址：
-https://github.com/project-openwrt/R2S-OpenWrt/releases
+https://github.com/hans362/R2S-OpenWrt/releases
 
 ### 追新党可以在Action中取每日更新（可能会翻车，风险自担，需要登陆github后才能下载）：
-https://github.com/project-openwrt/R2S-OpenWrt/actions
-
-### Docker版本自行fork，更换Docker版seed，并在自己的Action中自取
+https://github.com/hans362/R2S-OpenWrt/actions
 
 ### 本地一键编译命令（注意装好依赖）：
 安装依赖：
